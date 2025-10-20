@@ -1,0 +1,19 @@
+{
+    "name": "kawa/site",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            
+        }
+    },
+    "authors": [
+        {
+            "name": "Kawã Sager Auer",
+            "email": "auersager24@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "bramus/router": "~1.6"
+    }
+}
